@@ -1,0 +1,75 @@
+ .line1 .line {
+    height: 117px;
+    position: relative;
+    object-fit: cover;
+    left: 523px;
+  }
+
+  .line2 .line {
+    height: 117px;
+    position: relative;
+    object-fit: cover;
+    left: 909px;
+  }
+  
+  .box1 {
+    border: 0px none;
+    height: 83px;
+    width: 316px;
+  }
+  
+  .box1 .group {
+    height: 83px;
+    left: 0;
+    top: 0;
+    width: 320px;
+  }
+  
+  .box1 .overlap-group {
+    height: 83px;
+    position: relative;
+    width: 316px;
+  }
+  
+  .box1 .text-wrapper {
+    color: #4d4d4d;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0.44px;
+    line-height: normal;
+    position: absolute;
+    top: 58px;
+    width: 316px;
+  }
+  
+  .box1 .element-lorem {
+    color: #222222;
+    font-family: "Proxima Nova-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 1px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .box1 .span {
+    font-weight: 700;
+  }
+  
+  .box1 .text-wrapper-2 {
+    font-size: 45px;
+    font-weight: 700;
+    letter-spacing: 0.9px;
+  }
+  
+  .box1 .text-wrapper-3 {
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0.96px;
+  }
+  

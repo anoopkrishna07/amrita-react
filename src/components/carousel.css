@@ -1,0 +1,201 @@
+.registration-form {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 678px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .registration-form .overlap-group {
+    background-image: url(./img/Rectangle18.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 549px;
+    left: 0;
+    position: absolute;
+    top: 127px;
+    width: 1440px;
+  }
+  
+  .registration-form .overlap {
+    background-color: #19303a;
+    height: 444px;
+    left: 970px;
+    position: absolute;
+    top: 70px;
+    width: 470px;
+  }
+  
+  .registration-form .image {
+    height: 150px;
+    left: 0;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 225px;
+  }
+  
+  .registration-form .img {
+    height: 150px;
+    left: 0;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 150px;
+    width: 225px;
+  }
+  
+  .registration-form .image-2 {
+    height: 150px;
+    left: 0;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 294px;
+    width: 225px;
+  }
+  
+  .registration-form .image-3 {
+    height: 150px;
+    left: 225px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 225px;
+  }
+  
+  .registration-form .image-4 {
+    height: 150px;
+    left: 225px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 150px;
+    width: 225px;
+  }
+  
+  .registration-form .image-5 {
+    height: 150px;
+    left: 225px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    top: 294px;
+    width: 225px;
+  }
+  
+  .registration-form .vision-based {
+    color: #ffffff;
+    font-family: "Proxima Nova-Bold", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 34px;
+    position: absolute;
+    top: 28px;
+    width: 406px;
+  }
+  
+  .registration-form .it-is-a-long {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 142px;
+    width: 406px;
+  }
+  
+  .registration-form .div {
+    height: 12px;
+    left: 574px;
+    position: absolute;
+    top: 523px;
+    width: 160px;
+  }
+  
+  .registration-form .rectangle {
+    background-color: #d9d9d9;
+    height: 4px;
+    left: 5px;
+    position: absolute;
+    top: 5px;
+    width: 149px;
+  }
+  
+  .registration-form .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .registration-form .ellipse-2 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    height: 12px;
+    left: 37px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .registration-form .ellipse-3 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    height: 12px;
+    left: 74px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .registration-form .ellipse-4 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    height: 12px;
+    left: 111px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .registration-form .ellipse-5 {
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    height: 12px;
+    left: 148px;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .registration-form .ellipse-6 {
+    background-color: #b10f56;
+    border-radius: 3px;
+    height: 6px;
+    left: 40px;
+    position: absolute;
+    top: 3px;
+    width: 6px;
+  }
+  
+  .registration-form .image-6 {
+    height: 549px;
+    left: 715px;
+    mix-blend-mode: darken;
+    position: absolute;
+    top: 2884px;
+    width: 1443px;
+  }
+  

@@ -1,0 +1,18 @@
+.research {
+    width: 1448px;
+    height: 374px;
+    flex-shrink: 0;
+    background: #1D1D1D;
+}
+
+.searchb {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    height: 42px;
+    position: relative;
+    width: 616px;
+    left: 422px;
+    top: 150px;
+    bottom: 109px;
+    right: 410px;
+}

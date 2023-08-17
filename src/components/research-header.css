@@ -1,0 +1,45 @@
+.label {
+    border: 0px none;
+    height: 63px;
+    width: 209px;
+    position: relative;
+    left: 615px;
+    top: 68px;
+    bottom: 243px;
+    right: 624px;
+  }
+  
+  .label .text-wrapper {
+    color: #ffffff;
+    font-family: "Proxima Nova-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 54px;
+    white-space: nowrap;
+    width: 209px;
+  }
+  
+  .label1 {
+    border: 0px none;
+    height: 77px;
+    width: 808px;
+    position: relative;
+    left: 324px;
+    top: 90px;
+    bottom: 171px;
+    right: 316px;
+  }
+  
+  .label1 .text-wrapper1 {
+    color: #b0b0b0;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-align: center;
+    width: 808px;
+  }
+  

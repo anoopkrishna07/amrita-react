@@ -1,0 +1,968 @@
+.header-normal {
+    border: 1px none;
+    height: 65px;
+    overflow-x: hidden;
+    width: 1170px;
+  }
+  
+  .header-normal .div {
+    height: 64px;
+    left: 1px;
+    position: relative;
+    width: 1173px;
+  }
+  
+  .header-normal .logo {
+    height: 54px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 243px;
+  }
+  
+  .header-normal .fill {
+    height: 12px;
+    left: 48px;
+    position: absolute;
+    top: 41px;
+    width: 11px;
+  }
+  
+  .header-normal .img {
+    height: 11px;
+    left: 61px;
+    position: absolute;
+    top: 41px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-2 {
+    height: 11px;
+    left: 65px;
+    position: absolute;
+    top: 41px;
+    width: 8px;
+  }
+  
+  .header-normal .fill-3 {
+    height: 11px;
+    left: 75px;
+    position: absolute;
+    top: 41px;
+    width: 9px;
+  }
+  
+  .header-normal .overlap {
+    height: 12px;
+    left: 85px;
+    position: absolute;
+    top: 40px;
+    width: 27px;
+  }
+  
+  .header-normal .fill-4 {
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 17px;
+  }
+  
+  .header-normal .fill-5 {
+    height: 12px;
+    left: 16px;
+    position: absolute;
+    top: 0;
+    width: 11px;
+  }
+  
+  .header-normal .fill-6 {
+    height: 12px;
+    left: 118px;
+    position: absolute;
+    top: 41px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-7 {
+    height: 11px;
+    left: 131px;
+    position: absolute;
+    top: 41px;
+    width: 2px;
+  }
+  
+  .header-normal .overlap-group {
+    height: 12px;
+    left: 135px;
+    position: absolute;
+    top: 40px;
+    width: 30px;
+  }
+  
+  .header-normal .fill-8 {
+    height: 11px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 9px;
+  }
+  
+  .header-normal .fill-9 {
+    height: 11px;
+    left: 9px;
+    position: absolute;
+    top: 1px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-10 {
+    height: 12px;
+    left: 19px;
+    position: absolute;
+    top: 0;
+    width: 11px;
+  }
+  
+  .header-normal .fill-11 {
+    height: 11px;
+    left: 166px;
+    position: absolute;
+    top: 41px;
+    width: 8px;
+  }
+  
+  .header-normal .fill-12 {
+    height: 11px;
+    left: 176px;
+    position: absolute;
+    top: 41px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-13 {
+    height: 11px;
+    left: 185px;
+    position: absolute;
+    top: 41px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-14 {
+    height: 11px;
+    left: 193px;
+    position: absolute;
+    top: 41px;
+    width: 10px;
+  }
+  
+  .header-normal .fill-15 {
+    height: 11px;
+    left: 205px;
+    position: absolute;
+    top: 41px;
+    width: 9px;
+  }
+  
+  .header-normal .fill-16 {
+    height: 12px;
+    left: 215px;
+    position: absolute;
+    top: 40px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-17 {
+    height: 12px;
+    left: 226px;
+    position: absolute;
+    top: 40px;
+    width: 17px;
+  }
+  
+  .header-normal .fill-18 {
+    height: 36px;
+    left: 48px;
+    position: absolute;
+    top: 0;
+    width: 34px;
+  }
+  
+  .header-normal .fill-19 {
+    height: 38px;
+    left: 84px;
+    position: absolute;
+    top: 0;
+    width: 51px;
+  }
+  
+  .header-normal .fill-20 {
+    height: 35px;
+    left: 171px;
+    position: absolute;
+    top: 1px;
+    width: 7px;
+  }
+  
+  .header-normal .overlap-2 {
+    height: 36px;
+    left: 182px;
+    position: absolute;
+    top: 0;
+    width: 61px;
+  }
+  
+  .header-normal .fill-21 {
+    height: 35px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 32px;
+  }
+  
+  .header-normal .fill-22 {
+    height: 36px;
+    left: 27px;
+    position: absolute;
+    top: 0;
+    width: 34px;
+  }
+  
+  .header-normal .fill-23 {
+    height: 35px;
+    left: 139px;
+    position: absolute;
+    top: 1px;
+    width: 27px;
+  }
+  
+  .header-normal .overlap-group-2 {
+    height: 47px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 45px;
+  }
+  
+  .header-normal .fill-24 {
+    height: 1px;
+    left: 27px;
+    position: absolute;
+    top: 26px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-25 {
+    height: 1px;
+    left: 7px;
+    position: absolute;
+    top: 26px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-26 {
+    height: 1px;
+    left: 25px;
+    position: absolute;
+    top: 28px;
+    width: 12px;
+  }
+  
+  .header-normal .fill-27 {
+    height: 1px;
+    left: 7px;
+    position: absolute;
+    top: 28px;
+    width: 12px;
+  }
+  
+  .header-normal .fill-28 {
+    height: 42px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 39px;
+  }
+  
+  .header-normal .fill-29 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 35px;
+    width: 16px;
+  }
+  
+  .header-normal .fill-30 {
+    height: 1px;
+    left: 18px;
+    position: absolute;
+    top: 37px;
+    width: 9px;
+  }
+  
+  .header-normal .fill-31 {
+    height: 5px;
+    left: 24px;
+    position: absolute;
+    top: 21px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-32 {
+    height: 5px;
+    left: 25px;
+    position: absolute;
+    top: 21px;
+    width: 5px;
+  }
+  
+  .header-normal .fill-33 {
+    height: 6px;
+    left: 19px;
+    position: absolute;
+    top: 21px;
+    width: 6px;
+  }
+  
+  .header-normal .fill-34 {
+    height: 5px;
+    left: 17px;
+    position: absolute;
+    top: 21px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-35 {
+    height: 5px;
+    left: 15px;
+    position: absolute;
+    top: 21px;
+    width: 5px;
+  }
+  
+  .header-normal .fill-36 {
+    height: 1px;
+    left: 17px;
+    position: absolute;
+    top: 27px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-37 {
+    height: 1px;
+    left: 19px;
+    position: absolute;
+    top: 27px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-38 {
+    height: 2px;
+    left: 21px;
+    position: absolute;
+    top: 27px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-39 {
+    height: 1px;
+    left: 24px;
+    position: absolute;
+    top: 27px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-40 {
+    height: 1px;
+    left: 25px;
+    position: absolute;
+    top: 27px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-41 {
+    height: 3px;
+    left: 14px;
+    position: absolute;
+    top: 32px;
+    width: 8px;
+  }
+  
+  .header-normal .fill-42 {
+    height: 1px;
+    left: 19px;
+    position: absolute;
+    top: 34px;
+    width: 14px;
+  }
+  
+  .header-normal .fill-43 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 34px;
+    width: 5px;
+  }
+  
+  .header-normal .fill-44 {
+    height: 1px;
+    left: 8px;
+    position: absolute;
+    top: 29px;
+    width: 17px;
+  }
+  
+  .header-normal .fill-45 {
+    height: 1px;
+    left: 30px;
+    position: absolute;
+    top: 29px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-46 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 31px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-47 {
+    height: 1px;
+    left: 9px;
+    position: absolute;
+    top: 31px;
+    width: 14px;
+  }
+  
+  .header-normal .fill-48 {
+    height: 1px;
+    left: 10px;
+    position: absolute;
+    top: 32px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-49 {
+    height: 1px;
+    left: 22px;
+    position: absolute;
+    top: 32px;
+    width: 12px;
+  }
+  
+  .header-normal .fill-50 {
+    height: 3px;
+    left: 24px;
+    position: absolute;
+    top: 29px;
+    width: 9px;
+  }
+  
+  .header-normal .fill-51 {
+    height: 19px;
+    left: 13px;
+    position: absolute;
+    top: 7px;
+    width: 18px;
+  }
+  
+  .header-normal .fill-52 {
+    height: 1px;
+    left: 27px;
+    position: absolute;
+    top: 44px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-53 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 43px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-54 {
+    height: 1px;
+    left: 22px;
+    position: absolute;
+    top: 45px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-55 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 43px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-56 {
+    height: 1px;
+    left: 25px;
+    position: absolute;
+    top: 44px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-57 {
+    height: 1px;
+    left: 39px;
+    position: absolute;
+    top: 38px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-58 {
+    height: 1px;
+    left: 17px;
+    position: absolute;
+    top: 44px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-59 {
+    height: 1px;
+    left: 7px;
+    position: absolute;
+    top: 39px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-60 {
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 33px;
+    width: 45px;
+  }
+  
+  .header-normal .fill-61 {
+    height: 1px;
+    left: 10px;
+    position: absolute;
+    top: 42px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-62 {
+    height: 1px;
+    left: 4px;
+    position: absolute;
+    top: 38px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-63 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 25px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-64 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 22px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-65 {
+    height: 2px;
+    left: 31px;
+    position: absolute;
+    top: 19px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-66 {
+    height: 3px;
+    left: 30px;
+    position: absolute;
+    top: 16px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-67 {
+    height: 3px;
+    left: 28px;
+    position: absolute;
+    top: 13px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-68 {
+    height: 4px;
+    left: 26px;
+    position: absolute;
+    top: 12px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-69 {
+    height: 1px;
+    left: 9px;
+    position: absolute;
+    top: 25px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-70 {
+    height: 1px;
+    left: 9px;
+    position: absolute;
+    top: 22px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-71 {
+    height: 2px;
+    left: 10px;
+    position: absolute;
+    top: 19px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-72 {
+    height: 3px;
+    left: 12px;
+    position: absolute;
+    top: 16px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-73 {
+    height: 3px;
+    left: 14px;
+    position: absolute;
+    top: 14px;
+    width: 3px;
+  }
+  
+  .header-normal .fill-74 {
+    height: 4px;
+    left: 16px;
+    position: absolute;
+    top: 12px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-75 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 24px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-76 {
+    height: 2px;
+    left: 31px;
+    position: absolute;
+    top: 19px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-77 {
+    height: 4px;
+    left: 30px;
+    position: absolute;
+    top: 16px;
+    width: 6px;
+  }
+  
+  .header-normal .fill-78 {
+    height: 5px;
+    left: 29px;
+    position: absolute;
+    top: 12px;
+    width: 5px;
+  }
+  
+  .header-normal .fill-79 {
+    height: 6px;
+    left: 27px;
+    position: absolute;
+    top: 10px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-80 {
+    height: 1px;
+    left: 6px;
+    position: absolute;
+    top: 24px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-81 {
+    height: 2px;
+    left: 6px;
+    position: absolute;
+    top: 19px;
+    width: 7px;
+  }
+  
+  .header-normal .fill-82 {
+    height: 4px;
+    left: 8px;
+    position: absolute;
+    top: 16px;
+    width: 6px;
+  }
+  
+  .header-normal .fill-83 {
+    height: 5px;
+    left: 11px;
+    position: absolute;
+    top: 12px;
+    width: 5px;
+  }
+  
+  .header-normal .fill-84 {
+    height: 6px;
+    left: 14px;
+    position: absolute;
+    top: 10px;
+    width: 4px;
+  }
+  
+  .header-normal .fill-85 {
+    height: 1px;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-86 {
+    height: 1px;
+    left: 12px;
+    position: absolute;
+    top: 7px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-87 {
+    height: 1px;
+    left: 14px;
+    position: absolute;
+    top: 6px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-88 {
+    height: 6px;
+    left: 9px;
+    position: absolute;
+    top: 5px;
+    width: 9px;
+  }
+  
+  .header-normal .fill-89 {
+    height: 1px;
+    left: 16px;
+    position: absolute;
+    top: 5px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-90 {
+    height: 1px;
+    left: 23px;
+    position: absolute;
+    top: 7px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-91 {
+    height: 1px;
+    left: 26px;
+    position: absolute;
+    top: 6px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-92 {
+    height: 2px;
+    left: 32px;
+    position: absolute;
+    top: 9px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-93 {
+    height: 1px;
+    left: 32px;
+    position: absolute;
+    top: 11px;
+    width: 1px;
+  }
+  
+  .header-normal .fill-94 {
+    height: 5px;
+    left: 20px;
+    position: absolute;
+    top: 5px;
+    width: 14px;
+  }
+  
+  .header-normal .fill-95 {
+    height: 2px;
+    left: 33px;
+    position: absolute;
+    top: 10px;
+    width: 2px;
+  }
+  
+  .header-normal .fill-96 {
+    height: 1px;
+    left: 34px;
+    position: absolute;
+    top: 11px;
+    width: 1px;
+  }
+  
+  .header-normal .overlap-3 {
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 49px;
+    width: 18px;
+  }
+  
+  .header-normal .fill-97 {
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 18px;
+  }
+  
+  .header-normal .fill-98 {
+    height: 2px;
+    left: 16px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+  }
+  
+  .header-normal .overlap-4 {
+    height: 5px;
+    left: 20px;
+    position: absolute;
+    top: 47px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-99 {
+    height: 4px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 11px;
+  }
+  
+  .header-normal .fill-100 {
+    height: 2px;
+    left: 8px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+  }
+  
+  .header-normal .overlap-5 {
+    height: 5px;
+    left: 32px;
+    position: absolute;
+    top: 49px;
+    width: 12px;
+  }
+  
+  .header-normal .fill-101 {
+    height: 4px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .header-normal .fill-102 {
+    height: 2px;
+    left: 10px;
+    position: absolute;
+    top: 4px;
+    width: 2px;
+  }
+  
+  .header-normal .home-about-academics {
+    color: #262626;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 19px;
+    font-weight: 600;
+    left: 578px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 37px;
+  }
+  
+  .header-normal .search-wrapper {
+    background-image: url(./img/Oval.svg);
+    background-size: 100% 100%;
+    height: 31px;
+    left: 1137px;
+    position: absolute;
+    top: 33px;
+    width: 31px;
+  }
+  
+  .header-normal .search {
+    height: 15px;
+    left: 8px;
+    position: relative;
+    top: 8px;
+    width: 15px;
+  }
+  
+  .header-normal .overlap-6 {
+    height: 15px;
+    position: relative;
+  }
+  
+  .header-normal .stroke {
+    height: 6px;
+    left: 9px;
+    position: absolute;
+    top: 9px;
+    width: 6px;
+  }
+  
+  .header-normal .stroke-2 {
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .header-normal .news-events-careers {
+    color: #2b2b2b;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 919px;
+    letter-spacing: 0;
+    line-height: normal;
+    opacity: 0.8;
+    position: absolute;
+    text-align: right;
+    top: 0;
+  }
+  
